@@ -39,4 +39,7 @@ python main.py <name of city>
 ### Example
 python main.py irkutsk
 
-The above example will give the weather information of Parish
+The above example will give the weather information of irkutst
+
+## Acknowledgement
+Realpython.com
